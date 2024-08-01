@@ -3,13 +3,15 @@
 
 Goal is to get organized and hands-on courses from a reputable organization.
 
-## Certificate in Advanced Artificial Intelligence
-4106 Deep Reinforcement Learning
-3666 Applied Natural Language Processing
-4107 Probabilistic Programming and Causal AI
-4108 Artificial Intelligence (AI) Games
-
 ## Certificate in Artificial Intelligence
-3253 Machine Learning
-3546 Deep Learning
-3547 Intelligent Agent
+
+- [x] 3253 [Machine Learning](https://learn.utoronto.ca/programs-courses/courses/3253-machine-learning)
+- [ ] 3546 Deep Learning
+- [ ] 3547 Intelligent Agent
+
+## Certificate in Advanced Artificial Intelligence
+
+- [ ] 4106 [Deep Reinforcement Learning](https://learn.utoronto.ca/programs-courses/courses/4106-deep-reinforcement-learning)
+- [ ] 3666 Applied Natural Language Processing
+- [ ] 4107 Probabilistic Programming and Causal AI
+- [ ] 4108 Artificial Intelligence (AI) Games
