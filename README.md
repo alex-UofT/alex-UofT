@@ -1,7 +1,7 @@
 # University of Toronto SCS | personnal notes
 ![](https://learn.utoronto.ca/themes/custom/de_theme/logo.svg)
 
-Organize my information from the courses.
+Repo to organize my information from the courses.
 
 ## Certificate in Artificial Intelligence
 
