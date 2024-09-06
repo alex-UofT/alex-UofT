@@ -1,7 +1,7 @@
-# University of Toronto SCS | personnal notes
+# University of Toronto SCS
 ![](https://learn.utoronto.ca/themes/custom/de_theme/logo.svg)
 
-Repo to organize my information from the courses.
+Repo to organize my notes from the certificates.
 
 ## Certificate in Artificial Intelligence
 
@@ -15,6 +15,3 @@ Repo to organize my information from the courses.
 - [ ] 3666 - [Applied Natural Language Processing](https://learn.utoronto.ca/programs-courses/courses/3666-applied-natural-language-processing)
 - [ ] 4107 - [Probabilistic Programming and Causal AI](https://learn.utoronto.ca/programs-courses/courses/4107-probabilistic-programming-and-causal-ai)
 - [ ] 4108 - [Artificial Intelligence (AI) Games](https://learn.utoronto.ca/programs-courses/courses/4108-artificial-intelligence-ai-games)
-
-
-.
