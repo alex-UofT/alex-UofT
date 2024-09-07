@@ -1,7 +1,7 @@
 # University of Toronto SCS
 ![](https://learn.utoronto.ca/themes/custom/de_theme/logo.svg)
 
-Repo to organize my notes from the certificates.
+Repository to organize my notes and homeworks from the certificates.
 
 ## Certificate in Artificial Intelligence
 
