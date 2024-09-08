@@ -7,7 +7,7 @@ Repository to organize my notes and homeworks from the certificates.
 
 | Course | U of T | Git Repo | Keywords |
 | :----- | :----- | :------- | :------- |
-| 3253 | [Machine Learning](https://learn.utoronto.ca/programs-courses/courses/3253-machine-learning) | [Repo](https://github.com/beavershield/3253_MachineLearning) | python, ML, sklearn |
+| 3253 | [Machine Learning](https://learn.utoronto.ca/programs-courses/courses/3253-machine-learning) | [Repo](https://github.com/beavershield/3253_MachineLearning) | python, ML, sklearn, classification, clustering, SVM, decision tree, tensorflow |
 | 3546 | [Deep Learning](https://learn.utoronto.ca/programs-courses/courses/3546-deep-learning) | [Repo]() | python, tensorflow2, CNN, RNN, transformer, generative |
 | 3547 | [Intelligent Agent](https://learn.utoronto.ca/programs-courses/courses/3547-intelligent-agents) | [Repo]() | |
 
